@@ -1,0 +1,14 @@
+[36mDiscovery starting.[0m
+[36mDiscovery completed in 9 seconds, 736 milliseconds.[0m
+[36mRun starting. Expected test count is: 1[0m
+[32mControllerTest:[0m
+[32m- should save given person[0m
+[32m  + Given a Person instance [0m
+[32m  + When a request sent to /person/save [0m
+[32m  + Then Returned Person should not be null [0m
+[32mIntTestSpec:[0m
+[36mRun completed in 10 seconds, 543 milliseconds.[0m
+[36mTotal number of tests run: 1[0m
+[36mSuites: completed 3, aborted 0[0m
+[36mTests: succeeded 1, failed 0, canceled 0, ignored 0, pending 0[0m
+[32mAll tests passed.[0m
