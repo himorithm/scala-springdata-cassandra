@@ -13,3 +13,5 @@ Example project for using scala for Spring Boot with database as Cassandra
 - Integration testing using spring boot for cassandra 
 - Spring Mocking support
 - Mocking Cassandra Repositories in Integration test cases
+- Run Cassandra Node as spring boot Application
+- Activate / Deactivate Cassandra node dynamically using REST endpoint.
