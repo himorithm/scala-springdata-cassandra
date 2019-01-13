@@ -1,0 +1,8 @@
+spring:
+  data:
+    cassandra:
+      cluster-name: himanshu
+      keyspace-name: employee_keyspace
+      port: 9042
+      contact-points: localhost
+
